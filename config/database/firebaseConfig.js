@@ -6,13 +6,7 @@ const serviceAccount = process.env.SERVICE_ACCOUNT_PATH;
 
 // Configuración de Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAg3MejlCsxg1PCScKwgc1JEcS4aVR6xSo",
-  authDomain: "life-check-6f31f.firebaseapp.com",
-  projectId: "life-check-6f31f",
-  storageBucket: "life-check-6f31f.appspot.com",
-  messagingSenderId: "1029234988715",
-  appId: "1:1029234988715:web:5069ba35e345719565c9ee",
-  measurementId: null  // Deshabilita Analytics en entornos no compatibles
+ 
 };
 
 // Inicialización de la aplicación Firebase
